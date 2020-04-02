@@ -1,0 +1,13 @@
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.exe
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.deps.json
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.runtimeconfig.json
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.runtimeconfig.dev.json
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.dll
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.pdb
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.csprojAssemblyReference.cache
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.AssemblyInfo.cs
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.dll
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.pdb
+C:\Users\Vinícius\Source\Repos\Aulas-Avancando-CSharp\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.genruntimeconfig.cache
