@@ -1,14 +1,15 @@
 ﻿using System;
-using System.Text;
 using static System.Console;
 
 namespace AvancandoCSharp
 {
-    class Program
+    class DATATIME
     {
-        static void Main(string[] args)
+        public void Date_Time(string[] args)
         {
-          
+
+            WriteLine("{0}", DateTime.Now.AddDays(2));
+
             ReadLine();
         }
     }
